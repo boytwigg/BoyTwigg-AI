@@ -23,20 +23,24 @@ BoyTwigg AI replaces manual, disconnected processes with systems that hold toget
 <td width="50%" valign="top">
 <h3>🧠 AI agents</h3>
 <p>Agent teams with clear roles, permissions, handoffs, and human approval points. Built for work such as deal flow, executive communications, and internal operations.</p>
+<br>
 </td>
 <td width="50%" valign="top">
 <h3>🗺️ Systems design</h3>
 <p>Relational databases, CRM architecture, and connected operating systems. One reliable record of what happened, who owns it, and what comes next.</p>
+<br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>⚡ Automation</h3>
 <p>Workflows that connect intake, onboarding, delivery, notifications, and closeout. Less chasing. Fewer dropped handoffs.</p>
+<br>
 </td>
 <td width="50%" valign="top">
 <h3>🎓 Workshops</h3>
 <p>Practical sessions on AI productivity, entrepreneurship, and mental wellness for organizations, student athletes, and athletic departments.</p>
+<br>
 </td>
 </tr>
 </table>
@@ -45,10 +49,10 @@ BoyTwigg AI replaces manual, disconnected processes with systems that hold toget
 
 | | Team | Typical work |
 | :---: | --- | --- |
-| 💼 | **Venture firms** | Deal flow, portfolio, fund operations, and internal agent teams |
-| 👤 | **Executives** | Operations, communications, client work, and administrative systems |
-| 🏢 | **Small businesses** | CRM design, workflow automation, data migration, and vendor selection |
-| 🏟️ | **Athletic departments** | Workshops on entrepreneurship, AI tools, and mental wellness |
+| 💼<br> | **Venture firms**<br> | Deal flow, portfolio, fund operations, and internal agent teams<br> |
+| 👤<br> | **Executives**<br> | Operations, communications, client work, and administrative systems<br> |
+| 🏢<br> | **Small businesses**<br> | CRM design, workflow automation, data migration, and vendor selection<br> |
+| 🏟️<br> | **Athletic departments**<br> | Workshops on entrepreneurship, AI tools, and mental wellness<br> |
 
 ## How We Work
 
@@ -58,10 +62,10 @@ DISCOVER  →  DESIGN  →  BUILD  →  TEST  →  HAND OFF
 
 | Stage | What Happens |
 | --- | --- |
-| **Discover** | Map the current workflow, owners, failure points, and constraints. |
-| **Design** | Define the system, data model, approvals, and implementation plan. |
-| **Build and test** | Ship useful pieces early, validate the data, and test the edge cases. |
-| **Hand off** | Deliver documentation and training so the team can run what we built. |
+| **Discover**<br> | Map the current workflow, owners, failure points, and constraints.<br> |
+| **Design**<br> | Define the system, data model, approvals, and implementation plan.<br> |
+| **Build and test**<br> | Ship useful pieces early, validate the data, and test the edge cases.<br> |
+| **Hand off**<br> | Deliver documentation and training so the team can run what we built.<br> |
 
 ## Selected Work
 
@@ -70,10 +74,12 @@ DISCOVER  →  DESIGN  →  BUILD  →  TEST  →  HAND OFF
 <td width="50%" valign="top">
 <h3>🚀 <a href="https://github.com/boytwigg/vc-agent-architecture">VC Agent Architecture</a></h3>
 <p>A public reference build for a 5-agent venture capital team. It covers roles, boundaries, handoffs, privacy considerations, and a phased rollout.</p>
+<br>
 </td>
 <td width="50%" valign="top">
 <h3>👋🏾 <a href="https://github.com/boytwigg">Alex Malebranche</a></h3>
 <p>Meet the founder and see more work across AI products, operations design, automation, and implementation.</p>
+<br>
 </td>
 </tr>
 </table>
@@ -86,11 +92,11 @@ DISCOVER  →  DESIGN  →  BUILD  →  TEST  →  HAND OFF
 
 | | Deliverable |
 | :---: | --- |
-| ✅ | A system architecture and implementation plan tied to the actual workflow |
-| ✅ | Working automations with ownership, approvals, and failure handling defined |
-| ✅ | Database schemas, migration plans, and validation checks where needed |
-| ✅ | Vendor comparisons grounded in requirements, budget, and tradeoffs |
-| ✅ | Documentation and training built for the people who will run the system |
+| ✅<br> | A system architecture and implementation plan tied to the actual workflow<br> |
+| ✅<br> | Working automations with ownership, approvals, and failure handling defined<br> |
+| ✅<br> | Database schemas, migration plans, and validation checks where needed<br> |
+| ✅<br> | Vendor comparisons grounded in requirements, budget, and tradeoffs<br> |
+| ✅<br> | Documentation and training built for the people who will run the system<br> |
 
 ## AI Builder Toolbox
 
