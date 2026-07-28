@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" alt="BoyTwigg Consulting" width="600" />
+<img src="assets/boytwigg-ai-header.jpg" alt="BoyTwigg AI" width="600" />
 
 **Operations Design & Automation for Small Businesses**
 
