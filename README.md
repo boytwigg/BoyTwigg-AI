@@ -1,245 +1,150 @@
-<div align="center">
+<p align="center">
+  <img src="assets/boytwigg-ai-header.jpg" alt="BoyTwigg AI" width="100%">
+</p>
 
-<img src="assets/boytwigg-ai-header.jpg" alt="BoyTwigg AI" width="600" />
+<h1 align="center">BoyTwigg AI</h1>
+<p align="center"><strong>AI systems, agent architecture, and operational automation for teams doing real work.</strong></p>
 
-**Operations Design & Automation for Small Businesses**
-
-Systems architecture · Data migration · Workflow automation · AI agent design · Technical consulting
-
-[me@boytwigg.ai](mailto:me@boytwigg.ai) · [boytwigg.ai](https://boytwigg.ai) · [👤 About Alex / User Manual](https://github.com/boytwigg/boytwigg)
-
-</div>
+<p align="center">
+  <a href="https://www.boytwigg.ai"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-FFCC18?style=for-the-badge&logo=googlechrome&logoColor=111111"></a>
+  <a href="mailto:me@boytwigg.ai"><img alt="Email" src="https://img.shields.io/badge/EMAIL-C5221F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/boytwigg"><img alt="Founder" src="https://img.shields.io/badge/MEET_THE_FOUNDER-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/boytwigg/vc-agent-architecture"><img alt="Selected work" src="https://img.shields.io/badge/SELECTED_WORK-5B4B8A?style=for-the-badge&logo=readme&logoColor=white"></a>
+</p>
 
 ---
 
-## What We Do
+## What we do
 
-BoyTwigg AI LLC helps organizations replace manual, disconnected processes with unified, automated systems, and equips individuals with AI-powered tools to multiply their output. We work across the full operations stack, from discovery and audit through implementation and delivery, and design purpose-built AI agents for venture firms, executives, and small businesses.
+BoyTwigg AI replaces manual, disconnected processes with systems that hold together: databases that talk to each other, workflows that run without someone chasing them, and AI agents built for one job instead of ten.
 
-We also deliver workshops and keynotes at the intersection of **entrepreneurship**, **AI productivity**, and **mental wellness**, particularly for student athletes and athletic departments.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 AI agents</h3>
+<p>Agent teams with clear roles, permissions, handoffs, and human approval points. Built for work such as deal flow, executive communications, and internal operations.</p>
+</td>
+<td width="50%" valign="top">
+<h3>🗺️ Systems design</h3>
+<p>Relational databases, CRM architecture, and connected operating systems. One reliable record of what happened, who owns it, and what comes next.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚡ Automation</h3>
+<p>Workflows that connect intake, onboarding, delivery, notifications, and closeout. Less chasing. Fewer dropped handoffs.</p>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Workshops</h3>
+<p>Practical sessions on AI productivity, entrepreneurship, and mental wellness for organizations, student athletes, and athletic departments.</p>
+</td>
+</tr>
+</table>
 
-## Services
+## Who we help
 
-| Service | Description |
-| --- | --- |
-| **Operations Audit** | Map existing workflows, identify gaps, and deliver prioritized recommendations with effort estimates |
-| **Systems Architecture** | Design relational databases, configure CRM platforms, and build the single source of truth your business is missing |
-| **AI Agent Design** | Architect purpose-built AI agent teams to automate core business functions, from deal flow to executive communications |
-| **Data Migration** | Plan and execute full platform-to-platform migrations with automated validation and zero data loss |
-| **Workflow Automation** | Build end-to-end automation covering client lifecycle, internal tasks, notifications, and integrations |
-| **Vendor Evaluation** | Research, compare, and recommend tools and platforms tailored to your specific needs and budget |
-| **Workshops & Speaking** | Interactive workshops on AI productivity, entrepreneurship, and mental wellness for student athletes and organizations |
-| **Technical Documentation** | Deliver branded client-facing reports and internal implementation guides so your team can maintain what we build |
+| | Team | Typical work |
+| :---: | --- | --- |
+| 💼 | **Venture firms** | Deal flow, portfolio, fund operations, and internal agent teams |
+| 👤 | **Executives** | Operations, communications, client work, and administrative systems |
+| 🏢 | **Small businesses** | CRM design, workflow automation, data migration, and vendor selection |
+| 🏟️ | **Athletic departments** | Workshops on entrepreneurship, AI tools, and mental wellness |
 
-## Tech Stack
+## How we work
 
-We're platform-flexible and choose tools based on your needs, not ours.
-
-**AI & Agent Platforms** `Tasklet` `OpenAI` `Retell AI` `Custom AI Workflows`
-
-**Platforms & CRM** `Airtable` `Notion` `Anytype` `HubSpot`
-
-**Automation** `Zapier` `Make (Integromat)` `Custom Webhooks` `API Integration`
-
-**Scheduling & Payments** `Cal.com` `Calendly` `Stripe` `LawPay`
-
-**Communication** `Dialpad` `Twilio` `Mailchimp` `Acumbamail`
-
-**Document & E-Signature** `Proof.com` `DocuSign` `PandaDoc`
-
-**Development & Data** `Python` `REST APIs` `JSON/CSV Transformation` `ReportLab` `Markdown`
-
-**Research & Analysis** `Vendor evaluation frameworks` `Pricing analysis` `Compliance assessment`
-
-## How We Work
-
-Every engagement follows a structured methodology:
-
-```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│   Discovery &   │────▶│    Platform     │────▶│   Automation    │────▶│   Analysis &    │
-│     Audit       │     │   Migration     │     │    Buildout     │     │ Recommendations │
-└─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘
-  • Workflow mapping     • Schema design        • Discrete workflows    • Vendor evaluations
-  • Gap analysis         • Data extraction       • Lifecycle coverage    • Integration scoping
-  • Prioritization       • Validation pipeline   • Error handling        • Implementation specs
-
+```text
+DISCOVER  →  DESIGN  →  BUILD  →  TEST  →  HAND OFF
 ```
 
-We deliver quick wins early, build toward long-term scalability, and document everything so you're never dependent on us.
-
----
-
-## Portfolio
-
-Every engagement below is described at the level of architecture and outcome. Specific client names, proprietary configurations, and sensitive business data are deliberately withheld. That restraint is the standard we hold for every client, including the ones not yet on this list.
-
-### 🚀 Emerging Venture Firm — AI Agent Team Architecture
-
-**Client:** An emerging venture firm · Pre-Seed/Seed · Enterprise AI focus
-
-**Scope:** Design and deploy a team of five purpose-built AI agents to automate core firm operations across deal flow, fund operations, portfolio support, internal operations, and an education program.
-
-**What we designed & built:**
-
-| Functional Area | What It Does |
+| Stage | What happens |
 | --- | --- |
-| **Deal Flow & Pipeline** | Automated deal intake, company enrichment, fit scoring against investment thesis, pipeline tracking, weekly deal flow summaries, stalled-deal escalation logic |
-| **Fund Operations & LP Engagement** | LP relationship management and engagement cadence, capital call tracking, term sheet review against market standards, fundraise-readiness reporting |
-| **Portfolio Intelligence** | Two-track portfolio support (early-stage tactical, growth-stage strategic), company monitoring, founder support routing, warm-intro facilitation |
-| **Internal Operations** | Privacy-first meeting capture, intelligent email routing, calendar intelligence, separate per-partner daily briefings |
-| **Education & Fellowship** | Program coordination, session content delivery, fellow progress tracking, alumni community management |
+| **Discover** | Map the current workflow, owners, failure points, and constraints. |
+| **Design** | Define the system, data model, approvals, and implementation plan. |
+| **Build and test** | Ship useful pieces early, validate the data, and test the edge cases. |
+| **Hand off** | Deliver documentation and training so the team can run what we built. |
 
-**Key outcomes:**
+## Selected work
 
-- Five coordinated AI agents covering the firm's entire operational surface area
-- Each agent purpose-built with domain-specific knowledge and integrations
-- Privacy-by-design architecture with opt-in capture and strict access boundaries
-- Phased deployment sequencing that protected partner trust through rollout
-- Cost-effective deployment, a full agent team at a fraction of a single hire
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🚀 <a href="https://github.com/boytwigg/vc-agent-architecture">VC Agent Architecture</a></h3>
+<p>A public reference build for a 5-agent venture capital team. It covers roles, boundaries, handoffs, privacy considerations, and a phased rollout.</p>
+</td>
+<td width="50%" valign="top">
+<h3>👋🏾 <a href="https://github.com/boytwigg">Alex Malebranche</a></h3>
+<p>Meet the founder and see more work across AI products, operations design, automation, and implementation.</p>
+</td>
+</tr>
+</table>
 
-> **Deep dive:** The sanitized reference architecture for this engagement is published at [vc-agent-architecture](https://github.com/boytwigg/vc-agent-architecture), including the topology, the phased deployment philosophy, the privacy framework, and the coordination protocols.
+<p align="center">
+  <a href="https://github.com/boytwigg/vc-agent-architecture"><img alt="Explore the architecture" src="https://img.shields.io/badge/EXPLORE_THE_ARCHITECTURE-5B4B8A?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
----
+## What clients receive
 
-### 🎯 Executive AI Agent Suite — Full C-Suite for One
+| | Deliverable |
+| :---: | --- |
+| ✅ | A system architecture and implementation plan tied to the actual workflow |
+| ✅ | Working automations with ownership, approvals, and failure handling defined |
+| ✅ | Database schemas, migration plans, and validation checks where needed |
+| ✅ | Vendor comparisons grounded in requirements, budget, and tradeoffs |
+| ✅ | Documentation and training built for the people who will run the system |
 
-**Client:** A high-output executive · Enterprise client roster
+## AI builder toolbox
 
-**Scope:** Design and deploy a four-agent AI team that functions as a personal C-suite, giving a single executive the operational capacity of an entire leadership team.
+Tools we use to move an idea into a working system. The mix changes with the job.
 
-**The agent team:**
+**Build with AI**
 
-| Domain | Function |
-| --- | --- |
-| **Operations Command** | Owns project boards across 15+ active workstreams. Surfaces risks before they become problems. Manages delegation with context and rationale, not just task assignments. Delivers weekly production pulses and deadline intelligence. |
-| **Client Intelligence** | Pre-meeting prep engine with full relationship context. Proposal drafting that matches the executive's voice. Pipeline and OKR tracking. Follow-up discipline so nothing falls through the cracks. |
-| **Brand Voice** | Email drafting and triage in the executive's authentic voice. Content strategy. Portfolio and case study development. Maintains a living style guide that evolves with the brand. |
-| **Life Operations** | Weekly planning rituals. Relationship maintenance prompts. Wellness and routine support. Life admin. The agent that protects the person behind the professional. |
+<p align="left">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white">
+  <img alt="Entire" src="https://img.shields.io/badge/Entire-6E56CF?style=for-the-badge">
+  <img alt="Hyperagent" src="https://img.shields.io/badge/Hyperagent-5B5BD6?style=for-the-badge">
+  <img alt="Runner" src="https://img.shields.io/badge/Runner-2563EB?style=for-the-badge">
+  <img alt="Keystroke" src="https://img.shields.io/badge/Keystroke-EC4899?style=for-the-badge">
+  <img alt="Hermes" src="https://img.shields.io/badge/Hermes-D97706?style=for-the-badge">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white">
+  <img alt="Tasklet" src="https://img.shields.io/badge/Tasklet-FFCC18?style=for-the-badge&logoColor=111111">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+</p>
 
-**Key design principles:**
+**Automate and operate**
 
-- Each agent has a distinct **personality and communication style**, calibrated to its domain and designed to feel human, not robotic
-- Agents are **audience-aware**, adapting tone and register based on who the executive is communicating with
-- Built with a **sequenced deployment strategy** (highest-burden agent first, wellness agent last, once bandwidth is freed up)
-- Self-contained agents that don't depend on each other; coordination happens through shared tools and calendars
+<p align="left">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
+  <img alt="Make" src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white">
+  <img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white">
+  <img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white">
+</p>
 
----
+**Ship and integrate**
 
-### 🏛️ Solo Legal Practice — Full-Stack Operations Buildout
+<p align="left">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white">
+</p>
 
-**Client:** A solo legal practice · Multi-jurisdiction · Legacy systems
+## About the founder
 
-**Scope:** End-to-end systems overhaul for a solo attorney managing cases across multiple jurisdictions with no centralized CRM, no automation, and a legacy platform approaching end-of-life.
+[Alex Malebranche](https://github.com/boytwigg) is a founder, product-minded operator, and U.S. Army Intelligence veteran. His background includes enterprise technology roles at AWS, GitHub, Cloudflare, Plume Design, and Amazon. He now builds AI systems for venture firms, executives, and small teams.
 
-**What we delivered:**
+## Start a conversation
 
-- Migrated the full contact, matter, and billing record set from a legacy CRM with zero data loss
-- Designed a **relational database** with cross-linked tables (Contacts, Cases, Tasks, Interactions, Consultations, Documents, Billing)
-- Built **21 automation workflows** covering intake → consultation → onboarding → active case → closure
-- Created **30 task templates** spanning all case phases and filing types
-- Produced a **19-point operational audit** with branded deliverables
-- Delivered comparative analyses of AI receptionist solutions, e-signature platforms, and payment processors
-- Designed a **6-step automated case closing workflow** (final billing → closing letter → feedback → referral → archive)
+Have a process held together by spreadsheets, inboxes, and memory? Bring the messy version. We will start there.
 
-**Portfolio samples available:**
-
-- [Operations & Automation Case Study](portfolio/case-study.pdf) — 5-page engagement narrative
-- [Workflow Review & Recommendations](portfolio/workflow-review.pdf) — 4-page operational audit
-- [AI Receptionist Analysis](portfolio/ai-receptionist-analysis.pdf) — 4-page vendor comparison
-- [Project Delivery Audit](portfolio/delivery-audit.pdf) — 12-page deliverable verification report
-
-> *All portfolio documents for this engagement have been redacted to protect client confidentiality.*
-
----
-
-### 🎓 Student-Athlete Workshop Series
-
-**Format:** Interactive workshops · Athletic departments & mental health programs
-
-We design and deliver workshops for student athletes at the intersection of **entrepreneurship**, **AI productivity**, and **mental wellness**. The NIL era created extraordinary opportunity and extraordinary disparity. Most athletes have never been taught how to build a business, monetize their brand, or use technology to multiply their efforts.
-
-**Three-pillar model:**
-
-| Pillar | What Athletes Learn |
-| --- | --- |
-| **Entrepreneurship** | Identifying marketable skills beyond athletics. Business models that work on a student-athlete schedule. Revenue streams that outlast a playing career. |
-| **AI Productivity** | Hands-on setup of AI agents for social media, email, scheduling, and content. One person doing the work of five. |
-| **Mental Wellness** | How automation reduces cognitive load. Why entrepreneurship plus AI is a mental health strategy. Embedded wellness, not bolted-on. |
-
-Athletes leave with working AI tools, a business action plan, a digital resource playbook, peer accountability, and 30 days of follow-up support.
-
-Workshops can be delivered as all-athlete assemblies, team-based sessions, or hybrid formats. Mental health segments can be co-facilitated with campus counseling staff.
-
-> *"Student athletes don't need another motivational speech. They need real tools, real systems, and real support."*
+<p align="center">
+  <a href="mailto:me@boytwigg.ai"><img alt="Email BoyTwigg AI" src="https://img.shields.io/badge/EMAIL_BOYTWIGG_AI-C5221F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.boytwigg.ai"><img alt="Visit BoyTwigg AI" src="https://img.shields.io/badge/VISIT_BOYTWIGG.AI-FFCC18?style=for-the-badge&logo=googlechrome&logoColor=111111"></a>
+</p>
 
 ---
 
-### 📊 What a Typical Engagement Looks Like
-
-| Phase | Duration | Deliverables |
-| --- | --- | --- |
-| Discovery | 1–2 weeks | Workflow map, gap analysis, prioritized recommendations |
-| Migration | 1–2 weeks | Validated data in new platform, schema documentation |
-| Automation | 2–4 weeks | Working automations with implementation guides |
-| Handoff | 1 week | Client-facing documentation, training, ongoing support plan |
-
-Timelines vary by scope. We right-size every engagement.
-
----
-
-## Deep-Dive Repositories
-
-These repositories publish the architecture and patterns behind our work, sanitized to protect client confidentiality. They go one level deeper than the summaries above.
-
-| Repository | What It Covers |
-| --- | --- |
-| [vc-agent-architecture](https://github.com/boytwigg/vc-agent-architecture) | Reference architecture for multi-agent AI systems supporting venture capital operations. Five-agent topology, privacy-by-design, phased deployment, coordination protocols. |
-
-More reference repositories are published as engagements mature and patterns generalize.
-
-## Skills Demonstrated
-
-- **AI Agent Architecture** — Designing purpose-built AI agent teams with domain-specific knowledge, integrations, and workflows
-- **Brand Voice Engineering** — Building AI systems that preserve the nuance and personality of human communication
-- **Systems Architecture** — Relational database design, cross-platform data modeling, role-based views
-- **Data Migration** — Full CRM-to-CRM migrations with automated validation and referential integrity
-- **Workflow Automation** — Multi-step automations across platforms with triggers, conditions, and error handling
-- **API Integration** — REST APIs, webhooks, OAuth, API key auth, custom actions
-- **Vendor Evaluation** — Structured comparative analysis with pricing, compliance, and integration feasibility
-- **Workshop Design & Facilitation** — Interactive, outcome-driven programming for student athletes and organizations
-- **Technical Documentation** — Branded PDFs, implementation specs, step-by-step configuration guides
-- **Process Design** — Workflow mapping, gap identification, effort-based prioritization
-- **Client Communication** — Translating technical work into business-language recommendations
-
-## About
-
-Alex Malebranche is a multiple-time founder, keynote speaker, and mental health advocate with 15+ years of experience across technology and the military.
-
-His background spans enterprise technology roles and technical delivery work (AWS, GitHub, Cloudflare, Plume Design), military service (U.S. Army), and venture and startup programs (Antler, Perplexity). These represent past roles and program affiliations, not current endorsements.
-
-He builds systems that make people and organizations faster, sharper, and more resilient, whether that's an AI agent team running a venture firm's operations, an automation platform managing a legal practice, or a workshop equipping student athletes with tools for life after sports.
-
-## Repository Structure
-
-```
-├── README.md                ← You are here
-├── portfolio/               ← Case studies and deliverable samples (redacted)
-│   ├── case-study.pdf
-│   ├── workflow-review.pdf
-│   ├── ai-receptionist-analysis.pdf
-│   └── delivery-audit.pdf
-└── assets/
-    ├── logo-dark.png
-    └── header.png
-
-```
-
-## Get in Touch
-
-📧 **<me@boytwigg.ai>** 🌐 **[Boytwigg AI](https://boytwigg.ai)**
-
----
-
-© 2026 BoyTwigg AI LLC. 
-Client names, proprietary configurations, and sensitive business data are withheld or redacted to protect client confidentiality.
+<p align="center">© 2026 BoyTwigg AI LLC</p>
