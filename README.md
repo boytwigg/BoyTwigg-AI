@@ -14,7 +14,7 @@
 
 ---
 
-## What we do
+## What We Do
 
 BoyTwigg AI replaces manual, disconnected processes with systems that hold together: databases that talk to each other, workflows that run without someone chasing them, and AI agents built for one job instead of ten.
 
@@ -41,7 +41,7 @@ BoyTwigg AI replaces manual, disconnected processes with systems that hold toget
 </tr>
 </table>
 
-## Who we help
+## Who We Help
 
 | | Team | Typical work |
 | :---: | --- | --- |
@@ -50,20 +50,20 @@ BoyTwigg AI replaces manual, disconnected processes with systems that hold toget
 | 🏢 | **Small businesses** | CRM design, workflow automation, data migration, and vendor selection |
 | 🏟️ | **Athletic departments** | Workshops on entrepreneurship, AI tools, and mental wellness |
 
-## How we work
+## How We Work
 
 ```text
 DISCOVER  →  DESIGN  →  BUILD  →  TEST  →  HAND OFF
 ```
 
-| Stage | What happens |
+| Stage | What Happens |
 | --- | --- |
 | **Discover** | Map the current workflow, owners, failure points, and constraints. |
 | **Design** | Define the system, data model, approvals, and implementation plan. |
 | **Build and test** | Ship useful pieces early, validate the data, and test the edge cases. |
 | **Hand off** | Deliver documentation and training so the team can run what we built. |
 
-## Selected work
+## Selected Work
 
 <table>
 <tr>
@@ -82,7 +82,7 @@ DISCOVER  →  DESIGN  →  BUILD  →  TEST  →  HAND OFF
   <a href="https://github.com/boytwigg/vc-agent-architecture"><img alt="Explore the architecture" src="https://img.shields.io/badge/EXPLORE_THE_ARCHITECTURE-5B4B8A?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-## What clients receive
+## What Clients Receive
 
 | | Deliverable |
 | :---: | --- |
@@ -92,7 +92,7 @@ DISCOVER  →  DESIGN  →  BUILD  →  TEST  →  HAND OFF
 | ✅ | Vendor comparisons grounded in requirements, budget, and tradeoffs |
 | ✅ | Documentation and training built for the people who will run the system |
 
-## AI builder toolbox
+## AI Builder Toolbox
 
 Tools we use to move an idea into a working system. The mix changes with the job.
 
@@ -112,7 +112,7 @@ Tools we use to move an idea into a working system. The mix changes with the job
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
-**Automate and operate**
+**Automate and Operate**
 
 <p align="left">
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
@@ -123,7 +123,7 @@ Tools we use to move an idea into a working system. The mix changes with the job
   <img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white">
 </p>
 
-**Ship and integrate**
+**Ship and Integrate**
 
 <p align="left">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -134,7 +134,7 @@ Tools we use to move an idea into a working system. The mix changes with the job
 
 ## About the founder
 
-[Alex Malebranche](https://github.com/boytwigg) is a founder, product-minded operator, and U.S. Army Intelligence veteran. His background includes enterprise technology roles at AWS, GitHub, Cloudflare, Plume Design, and Amazon. He now builds AI systems for venture firms, executives, and small teams.
+[Alex Malebranche](https://boytwigg.com) is a founder, product-minded operator, and U.S. Army Intelligence veteran. His background includes enterprise technology roles at AWS, GitHub, Cloudflare, Plume Design, and Amazon. He now builds AI systems for venture firms, executives, and small teams.
 
 ## Start a conversation
 
