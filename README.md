@@ -138,7 +138,7 @@ Tools we use to move an idea into a working system. The mix changes with the job
   <img alt="JSON" src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white">
 </p>
 
-## About the founder
+## About the Founder
 
 [Alex Malebranche](https://boytwigg.com) is a founder, product-minded operator, and U.S. Army Intelligence veteran. His background includes enterprise technology roles at AWS, GitHub, Cloudflare, Plume Design, and Amazon. He now builds AI systems for venture firms, executives, and small teams.
 
